@@ -1,5 +1,5 @@
-require_relative '../spec_helper'
-require_relative './meal_choice.rb' # Code your solution in this file
+require_relative './spec_helper'
+require_relative '../meal_choice.rb' # Code your solution in this file
 
 describe '#meal_choice' do
   it 'should default to meat' do
