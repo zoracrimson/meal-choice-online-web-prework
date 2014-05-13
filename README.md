@@ -1,7 +1,7 @@
 ---
 language: ruby
 tags: methods, default arguments
- resources: 1
+resources: 1
 ---
 
 # Meal Choice
