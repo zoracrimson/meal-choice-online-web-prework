@@ -1,9 +1,11 @@
-# Objectives
+#Meal Choice
+
+## Objectives
 
 1. Practice using default arguments
-2. Define a method that returns the meal choice passed into it and defaults to meat.
+2. Students should be able to define a method that has an optional argument with a default.
 
-# Instructions
+## Instructions
 
 Define a method `meal_choice` that returns the meal_choice that was passed into it and defaults to "meat".
 
