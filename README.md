@@ -1,8 +1,3 @@
----
-language: ruby
-tags: methods, default arguments
-resources: 1
----
 # Objectives
 
 1. Practice using default arguments
