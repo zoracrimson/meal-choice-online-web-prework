@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Define a method that has an optional argument with a default value.
+1. Define a method that has an argument with a default value.
 
 ## Instructions
 
