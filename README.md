@@ -11,4 +11,4 @@ Define a method `meal_choice` that returns the meal_choice that was passed into 
 ## Resources
 * [Skorks Blog - Arguments With Default Value](http://www.skorks.com/2009/08/method-arguments-in-ruby/)
 
-<a href='https://learn.co/lessons/meal-choice' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/meal-choice' title='Meal Choice'>Meal Choice</a> on Learn.co and start learning to code for free.</p>
