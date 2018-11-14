@@ -3,6 +3,5 @@
 
 meal_choice(choice = "meat")
   choice = "fish"
-  puts "I would like to eat #{choice}.
-end
+  puts "I would like to eat #{choice}."
   
