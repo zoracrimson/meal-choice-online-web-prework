@@ -2,6 +2,7 @@
 # passed into it and defaults to meat.
 
 meal_choice("choice = "meat")
+  choice = "fish"
   puts "I would like to eat #{choice}.
 end
   
